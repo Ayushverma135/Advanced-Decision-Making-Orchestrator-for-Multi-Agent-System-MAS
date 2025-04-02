@@ -1,0 +1,7 @@
+https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1422344/full
+https://www.frontiersin.org/research-topics/50093/decision-making-and-planning-for-multi-agent-systems
+https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1229026/full
+https://link.springer.com/article/10.1007/s10458-019-09433-x
+https://multiagents.org/2025_artifacts/reliable_decision_making_for_multi_agent_llm_systems.pdf
+https://en.wikipedia.org/wiki/Contract_Net_Protocol?utm_source=chatgpt.com
+https://en.wikipedia.org/wiki/Mean-field_game_theory?utm_source=chatgpt.com
