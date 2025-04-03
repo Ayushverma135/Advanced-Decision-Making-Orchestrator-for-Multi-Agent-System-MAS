@@ -18,13 +18,13 @@ class LLMaaSModel:
     """
     def __init__(self):
         # Hardcoded values from the provided JSON structure.
-        self.client_id = "idp-99629305-eb32-4450-af6d-0762ac02ca2b-llmaas-app"
-        self.client_secret = "cidps_YUy05kngKz8GhSMFp4ghXHsHbiZt2h9BQsb6K4pP8zlTdF1Q9D8rTeHgbCFKmQJ5USqO541ogcf7cdHxDFTh5EQr2DCcz9"
+        self.client_id = "your_client_id"
+        self.client_secret = "your_client_secret_key"
         self.grant_type = "client_credentials"
-        self.url = "https://idp.cloud.vwgroup.com/auth/realms/kums-mfa/protocol/openid-connect/token"
-        self.model = "gpt-4o"
-        self.base_url = "https://llm.ai.vwgroup.com/v1"
-        self.headers = {"X-LLM-API-CLIENT-ID": "IGTF-GmMfMoxTW0VIBhYhU69"}
+        self.url = "your_url"
+        self.model = "model_name"
+        self.base_url = "your_base_url"
+        self.headers = {"X-LLM-API-CLIENT-ID": "YOUR_CLIENT_ID"}
 
     def get_token(self) -> str:
         """
